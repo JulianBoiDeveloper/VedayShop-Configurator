@@ -1,0 +1,12 @@
+
+/* CSS Général */
+@import "components/general.css";
+@import "components/header.css";
+@import "components/wizard.css";
+@import "components/errors.css";
+@import "components/list.css";
+@import "components/button.css";
+@import "components/configurateur.css";
+@import "components/footer.css";
+
+@import "custom/custom.css";

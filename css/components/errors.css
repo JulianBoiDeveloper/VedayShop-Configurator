@@ -1,0 +1,15 @@
+.errors {
+
+}
+.debugError {
+    color: navy;
+}
+.infosError{
+    color: darkcyan;
+}
+.warnError{
+    color: orange;
+}
+.errorError{
+    color: red;
+}
